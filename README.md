@@ -43,8 +43,7 @@ Hi, I am Sourav Kumar Singh, Final-year MCA student interested in Software Devel
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajputsourav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajputsourav&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajputsourav&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ## 💻 Most Used Languages
@@ -57,8 +56,6 @@ Hi, I am Sourav Kumar Singh, Final-year MCA student interested in Software Devel
 
 ![GitHub Trophies](./profile/trophy.svg)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajputsourav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
