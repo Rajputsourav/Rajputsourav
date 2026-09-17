@@ -40,6 +40,23 @@ Hi, I am Sourav Kumar Singh, Final-year MCA student interested in Software Devel
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajputsourav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajputsourav&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajputsourav&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](./profile/trophy.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rajputsourav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
